@@ -39,6 +39,7 @@ All these commands can be remapped from the Input gestures dialog in the Win Wiz
 
 * Added a new window cycling system with improved selection and confirmation behavior
 * Added option to switch between the new window cycling system and the legacy behavior
+* Compatibility with NVDA 2026.1
 
 ### Changes for 5.0.7:
 
